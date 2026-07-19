@@ -1,0 +1,11 @@
+DATA CLEANING SUMMARY
+==============================
+Rows in original file: 10
+Rows in cleaned file:  9
+
+Missing/invalid emails: 2
+Dates standardized to YYYY-MM-DD: 10 rows
+Status values normalized to lowercase: 3 unique statuses
+Missing amounts flagged: 2
+Negative amounts flagged (data entry errors): 1
+Duplicate rows removed: 1

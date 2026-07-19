@@ -1,0 +1,11 @@
+Order ID,Customer Name,  Email ,Order Date,Amount,Status
+1001,john smith,JOHN.SMITH@email.com,03/14/2026,150.00,Completed
+1002,Jane Doe,jane.doe@email.com,2026-03-15,89.99,completed
+1003,  Mike Jones,mike.jones@email.com,14-03-2026,,Pending
+1001,john smith,JOHN.SMITH@email.com,03/14/2026,150.00,Completed
+1004,SARAH LEE,sarah.lee@email.com,03/16/2026,225.50,COMPLETED
+1005,Tom Brown,tom.brown@email,3/17/26,75.00,cancelled
+1006,Anna White,anna.white@email.com,2026/03/18,,completed
+1007,mike jones,mike.jones@email.com,03/14/2026,120.00,pending
+1008,Chris Green,chris.green@email.com,03/19/2026,-45.00,Completed
+1009,Lisa Black,,03/20/2026,310.00,Completed
